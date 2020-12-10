@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-reactwind",
+  "version": "1.0.0",
+  "description": "React+Tailwind template for Create React App",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilpurav/cra-template-reactwind.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "tailwind"
+  ],
+  "author": "Sahil Purav",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/sahilpurav/cra-template-reactwind/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "homepage": "https://github.com/sahilpurav/cra-template-reactwind#readme"
+}
